@@ -7,7 +7,6 @@ public class TwoSum {
                 if (nums[i] + nums[j] == target) {
                     sum[0] = i;
                     sum[1] = j;
-
                     break;
                 }
             }
